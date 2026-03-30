@@ -6,8 +6,8 @@ const CONFIG = {
 
   // ---------- PROFILE ----------
   name: "BEAST",
-  tagline: "Things change. Life doesn't stop for anybody.",
-  avatarUrl: "https://img.sanishtech.com/u/dd4e94dbbacf98e05f312bc235bb167d.png", // Paste a direct image URL, or leave "" for initials
+  tagline: "JOIN DISCORD SERVER FOR FULL SOURCE CODE OF THIS WEBSITE.",
+  avatarUrl: "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/916e35b2-1d46-4786-8f74-d7b19ffd2be8.png", // Paste a direct image URL, or leave "" for initials
 
   // ---------- SOCIALS ----------
   // Leave the value "" to hide a button
